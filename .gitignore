@@ -1,9 +1,10 @@
 data/
 third_party/segment-anything/sam_ckpt/
 output/
+third_party/pytorch3d/
 
 *.pyc
-**/__pycache__/*
-*build/*
+**/__pycache__/
+**/build/
 *.egg
 *.egg-info
