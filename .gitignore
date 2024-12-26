@@ -1,0 +1,9 @@
+data/
+third_party/segment-anything/sam_ckpt/
+output/
+
+*.pyc
+**/__pycache__/*
+*build/*
+*.egg
+*.egg-info
